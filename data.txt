@@ -1,0 +1,9 @@
+#9 CEX vs DEX;okxeed
+#8 On-chain vs Off-chain;transaction
+#7 News affecting BTC price;btctothemoon
+#6 What is TON?;ton
+#5 Coin vs Token;tokens
+#4 What is Airdrop?;airdrop
+#3 Hot vs Cold Wallet;Wallet
+#2 Crypto vs Blockchain;Cryptocurrency
+#1 Learn Blockchain in 3 mins;Blockchain
